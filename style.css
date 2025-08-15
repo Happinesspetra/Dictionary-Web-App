@@ -8,7 +8,7 @@
   --white: #ffffff;
   --black: #050505;
   --error: #ff5252;
-  --accent: #a445ed;
+  --accent: #6145ed;
   --pri-clr: #757575;
 
   /* LIGHT MODE COLORS */
@@ -226,7 +226,7 @@ body {
     .word-icon {
       display: grid;
       place-items: center;
-      background-color: #a445ed2c;
+      background-color: #454ded2c;
       width: 48px;
       height: 48px;
       border-radius: 100%;

@@ -1,2 +1,33 @@
-# Dictionary-Web-App
-A comprehensive and user-friendly dictionary web app built with the Dictionary API. This app provides quick and accurate search results with definitions, synonyms, and examples of usage for a wide range of English words. The app features a clean, intuitive and customizable user-interface that makes navigation super easy.
+# 📖 Dictionary Web App
+
+A simple and responsive dictionary web application that allows users to search for word meanings, pronunciation, and usage examples — all in one place.
+
+![App Preview](img/preview.png)
+
+---
+
+## 🚀 Features
+- 🔍 **Word Search** – Quickly find definitions for any English word.
+- 🔊 **Pronunciation** – Listen to correct word pronunciations.
+- 🌙 **Dark Mode** – Switch between light and dark themes.
+- 📱 **Responsive Design** – Works on desktop, tablet, and mobile devices.
+- 🖼 **Minimal & Modern UI** – Clean, easy-to-use interface.
+
+---
+
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- [Dictionary API](https://dictionaryapi.dev/) for fetching word data.
+
+---
+
+## 📂 Project Structure
+```plaintext
+.
+├── img/                  # Icons & Images
+├── index.html            # Main HTML page
+├── style.css             # Styles
+├── script.js             # JavaScript functionality
+└── README.md             # Documentation
